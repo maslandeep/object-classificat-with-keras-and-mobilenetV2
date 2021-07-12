@@ -1,8 +1,6 @@
 #=================================================================
 # 7/12/21
 # Object classification using Keras and specifically MobileNetV2
-# Melih Aslan
-# maslanky@gmail.com
 
 # Usage:
 # Adjust the parameters num_classes , SIZE_h, SIZE_w, train_batchsize for your applications
